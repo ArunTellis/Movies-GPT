@@ -1,7 +1,12 @@
+rafce->React Arrow Function Export Component
+
 #NetFlix Page
 
 - Create React App
 - Configure the Tailwind CSS
+
+-Header
+-Login Form
 
 #Features
 -Login & SignUp
