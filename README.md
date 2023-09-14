@@ -16,6 +16,14 @@ rafce->React Arrow Function Export Component
 - Create Sign Up User Account
   -Implement SignIn User API
   -Created Redux Store with User Slice
+  -Implemented Sign Out
+  -Update Profile
+  -Bug Fix : Sign Up User displayName and Profile picture Update
+  -Bug Fix : If the user isnt logged in then Redirect /browse to Login Page and vice-versa
+  -UnSubscribed to the onAuthChanged callback
+  -Added HardCoded values to the Constant Files
+  -Register into the tmdb api and create an app to get the access token
+  -Get data from the tmdb api on now playing movies
 
   #Features
   -Login & SignUp
