@@ -1,15 +1,13 @@
-rafce->React Arrow Function Export Component
-
-#NetFlix Page
+- NetFlix GPT
 
 - Create React App
 - Configure the Tailwind CSS
 
--Header.
--Login Form
--Routing of App
--Login Form
--useRef Hook
+- Header.
+- Login Form
+- Routing of App
+- Login Form
+- useRef Hook
 
 - Firebase Setup
 - Deployed
