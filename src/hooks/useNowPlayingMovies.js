@@ -4,7 +4,7 @@ import { addNowPlayingMovies } from "../utils/MovieSlice";
 import { useEffect } from "react";
 
 const useNowPlayingMovies = () => {
-  //Fetching the data from the TMDB API
+  //Fetching the data from the TMDB API for Now Playing Movies
 
   const dispatch = useDispatch();
   const getNowPlayingMovies = async () => {
@@ -13,7 +13,6 @@ const useNowPlayingMovies = () => {
       API_OPTIONS
     );
     const json = await data.json();
-    console.log(json.results);
     dispatch(addNowPlayingMovies(json.results));
   };
 
