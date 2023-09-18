@@ -36,6 +36,7 @@
 - Improved UI using TailWind CSS
 - Created usePopularMovies(),useTopRatedMovies(),useUpComingMovies() hooks to show the respective
   movies
+- GPT Search Feature
 
 #Features
 
