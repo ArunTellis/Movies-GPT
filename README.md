@@ -30,13 +30,15 @@
 - Embedded the Youtube Video and make it autoplay and mute.
 
 - Tailwind CSS to make Main Container look more Awesome.
-- Built Secondary Component
-- Built Movie List and Card
-- TMDB Image CDN
-- Improved UI using TailWind CSS
+- Built Secondary Component.
+- Built Movie List and Card.
+- TMDB Image CDN.
+- Improved UI using TailWind CSS.
 - Created usePopularMovies(),useTopRatedMovies(),useUpComingMovies() hooks to show the respective
-  movies
-- GPT Search Feature
+  movies.
+- GPT Search Feature.
+- GPT Search Page & Bar.
+- Added Multi Language Feature.
 
 #Features
 
