@@ -6,8 +6,7 @@ import { addTopRatedMovies } from "../utils/MovieSlice";
 const useTopRatedMovies = () => {
   //Fetching the data from the TMDB API for Top Rated Movies
   const dispatch = useDispatch();
-
-  const topRated = useSelector((store) => store.movies.popularMovies);
+  const topRated = useSelector((store) => store.movies.topRatedMovies);
 
   const getTopRated = async () => {
     const data = await fetch(
